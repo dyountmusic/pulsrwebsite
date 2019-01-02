@@ -115,3 +115,8 @@ pre {
     display: inline;
     width: 50px;
 }
+
+.appstoreButton {
+    height: 75px;
+    padding: 25px;
+}
